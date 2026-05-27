@@ -1,6 +1,6 @@
 # fishmod
 
-Minecraft Forge 1.20.1 mod (`fishmod`) that adds fish items obtainable by fishing only.
+Minecraft Forge 1.20.1 mod (`fishmod`) that ports Aquaculture fish items and makes fishing fish-only.
 
 ## Run
 
@@ -11,17 +11,12 @@ Minecraft Forge 1.20.1 mod (`fishmod`) that adds fish items obtainable by fishin
 ## Quick test
 
 1. Start a world and fish in water.
-2. Caught `fishmod` fish get per-item length (`cm`) and grade (`D/C/B/A/S`) data components.
-3. Hover the fish item to see tooltip lines:
-   - `Grade: <grade>` (colored, italic)
-   - `Length: <value> cm` (gray, italic)
-
-## Commands
-
-Use `/give` for direct checks:
-
-```mcfunction
-/give @p fishmod:anchovy
-/give @p fishmod:red_snapper
-/give @p fishmod:tuna
-```
+2. Fishing only returns `fishmod` fish items (no vanilla fish/treasure/junk).
+3. Hover a fish item to see:
+   - `Species Grade: <E/D/C/B/A>` (decorative)
+   - `Size: <White/Yellow/Purple>`
+   - `Size: <multiplier>x`
+4. Eating fish gives size-tier hunger bonus:
+   - White: +0
+   - Yellow: +1
+   - Purple: +2

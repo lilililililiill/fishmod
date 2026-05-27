@@ -6,33 +6,178 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "fishmod:anchovy",
-          "weight": 26
+          "name": "fishmod:atlantic_cod",
+          "weight": 12
         },
         {
           "type": "minecraft:item",
-          "name": "fishmod:perch",
+          "name": "fishmod:blackfish",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:pacific_halibut",
+          "weight": 12
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:atlantic_halibut",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:atlantic_herring",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:pink_salmon",
           "weight": 20
         },
         {
           "type": "minecraft:item",
+          "name": "fishmod:pollock",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:rainbow_trout",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:bayad",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:boulti",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:capitaine",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:synodontis",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:smallmouth_bass",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:largemouth_bass",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:bluegill",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:brown_trout",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
           "name": "fishmod:carp",
-          "weight": 16
+          "weight": 30
         },
         {
           "type": "minecraft:item",
-          "name": "fishmod:mackerel",
-          "weight": 10
+          "name": "fishmod:catfish",
+          "weight": 6
         },
         {
           "type": "minecraft:item",
-          "name": "fishmod:red_snapper",
-          "weight": 5
+          "name": "fishmod:gar",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:minnow",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:muskellunge",
+          "weight": 12
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:perch",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:arapaima",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:piranha",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:tambaqui",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:brown_shrooma",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:red_shrooma",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:jellyfish",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:red_grouper",
+          "weight": 20
         },
         {
           "type": "minecraft:item",
           "name": "fishmod:tuna",
-          "weight": 2
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:leech",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:box_turtle",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:arrau_turtle",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:starshell_turtle",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fishmod:goldfish",
+          "weight": 30
         }
       ]
     }
