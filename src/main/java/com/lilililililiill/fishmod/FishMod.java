@@ -15,7 +15,6 @@ public class FishMod {
     public FishMod() {
         IEventBus modBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.ITEMS.register(modBus);
-        ModDataComponents.DATA_COMPONENT_TYPES.register(modBus);
         MinecraftForge.EVENT_BUS.register(FishEvents.class);
     }
 }

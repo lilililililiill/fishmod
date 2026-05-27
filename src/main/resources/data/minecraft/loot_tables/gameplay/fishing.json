@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:gameplay/fishing",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "fishmod:gameplay/fishing/fish"
+        }
+      ]
+    }
+  ]
+}
